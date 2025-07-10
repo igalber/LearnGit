@@ -1,5 +1,5 @@
 
-# Project Title
+# Learn Git Projcet
 
 A brief description of what this project does and who it's for
 
